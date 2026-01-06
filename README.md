@@ -1,5 +1,4 @@
 # Project Title
-
 ## The Economics of Olympic Success: How GDP and Population Shape Medal Performance
 DSA210 Term Project
 
