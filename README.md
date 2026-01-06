@@ -1,12 +1,12 @@
 # The Economics of Olympic Success: How GDP and Population Shape Medal Performance
 DSA210 Term Project
 
-Student: Alp Orkun Güzel
-Student Number: 34524
+-Student: Alp Orkun Güzel
+-Student Number: 34524
 
 ## Project Proposal
 
-The Olympic Games are widely regarded as a symbol of international unity and athletic excellence. However, behind the spectacle of competition lies a recurring question: do wealthier nations inherently perform better than others? This project, titled “The Economics of Olympic Success: How GDP and Population Shape Medal Performance,” aims to explore the relationship between a country’s economic power and its Olympic achievements.
+The Olympic Games are widely regarded as a symbol of international unity and athletic excellence. However, behind the spectacle of competition lies a recurring question: do wealthier nations inherently perform better than others? This project, titled **“The Economics of Olympic Success: How GDP and Population Shape Medal Performance,”** aims to explore the relationship between a country’s economic power and its Olympic achievements.
 
 By analyzing data from the last few decades of Olympic history, the study will investigate whether a country’s economic indicators—particularly its Gross Domestic Product (GDP), GDP per capita, and population size—correlate with the number of medals it wins. The project’s primary goal is to identify measurable patterns that explain how economic prosperity influences athletic success and to highlight nations that outperform or underperform relative to their economic standing.
 
