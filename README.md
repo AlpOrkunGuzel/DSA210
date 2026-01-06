@@ -13,7 +13,7 @@ This study will integrate two main datasets. The first dataset is the “120 Yea
 
 The second dataset comes from the World Bank Open Data platform. It includes macroeconomic indicators for most countries. In this project, three variables were used:
 
-'- hi
+* hi
 
 # How to Collect the Data
 
