@@ -2,7 +2,6 @@
 DSA210 Term Project
 
 Student: Alp Orkun Güzel
-
 Student Number: 34524
 
 ## Project Proposal
