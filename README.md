@@ -13,7 +13,26 @@ This study will integrate two main datasets. The first dataset is the “120 Yea
 
 The second dataset comes from the World Bank Open Data platform. It includes macroeconomic indicators for most countries. In this project, three variables were used:
 
-* hi
+* total GDP (current US$)
+* GDP per capita (current US$)
+* total population
+
+These indicators represent the economic size and development level of countries and are used to examine their relationship with Olympic performance.
+
+# Research Questions
+
+* Is there a relationship between GDP and total Olympic medals?
+* Do more populous countries win more medals on average?
+* Is GDP per capita associated with higher medal efficiency?
+
+# Methadology / Analysis Plan
+
+1. Data cleaning and preprocessing
+2. Aggregating Olympic data to the country–year level
+3. Merging Olympic data with World Bank economic indicators
+4. Exploratory data analysis and visualization
+5. Statistical analysis (correlations and hypothesis testing)
+6. Machine learning models in the final stage
 
 # How to Collect the Data
 
