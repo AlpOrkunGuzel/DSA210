@@ -34,10 +34,5 @@ These indicators represent the economic size and development level of countries 
 5. Statistical analysis (correlations and hypothesis testing)
 6. Machine learning models in the final stage
 
-# How to Collect the Data
-
-The data collection process will begin with downloading the Olympic dataset from Kaggle and importing it into Python using the pandas library. The data will first be cleaned by removing duplicate entries, standardizing country codes, and handling missing medal information. The next step will be to aggregate the data by country and year, producing a table of total medals for each Olympic cycle.
-
-For the economic data, the wbdata API will be used to query World Bank indicators. Using Python scripts, I will fetch GDP, GDP per capita, and population data for the same time period covered in the Olympic dataset. After retrieving the data, I will clean and reformat it so that the time frames and country names match the Olympic data. Once both datasets are ready, I will merge them on the shared attributes of country and year.
 
 
