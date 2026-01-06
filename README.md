@@ -2,7 +2,7 @@
 DSA210 Term Project
 Student: Alp Orkun Güzel
 Student Number: 34524
-Project Name: Comparing National Olympic Success and GDP
+Project Name: The Economics of Olympic Success: How GDP and Population Shape Medal Performance
 
 # Project Proposal
 
