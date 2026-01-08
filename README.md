@@ -9,7 +9,7 @@ Using data from recent decades of Olympic history, the study examines whether a 
 
 # Data to Use
 
-This study will integrate two main datasets. The first dataset is the “120 Years of Olympic History: Athletes and Results” dataset (https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results), available publicly on Kaggle. It contains detailed records of every Olympic athlete from 1896 to 2020, including fields such as National Olympic Comittee (NOC), year, sport, event, and medal type. For this project, the data was aggregated to the country–year level. Medal counts were computed by summing gold, silver, and bronze medals for each country in a given Olympic Games. This dataset provides the main measure of Olympic success.
+This study integrates two main datasets. The first dataset is the “120 Years of Olympic History: Athletes and Results” dataset (https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results), available publicly on Kaggle. It contains detailed records of every Olympic athlete from 1896 to 2020, including fields such as National Olympic Comittee (NOC), year, sport, event, and medal type. For this project, the data was aggregated to the country–year level. Medal counts were computed by summing gold, silver, and bronze medals for each country in a given Olympic Games. This dataset provides the main measure of Olympic success.
 
 The second dataset comes from the World Bank Open Data platform (https://data.worldbank.org/). It includes macroeconomic indicators for most countries. In this project, three variables were used:
 
