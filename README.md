@@ -3,9 +3,9 @@
 
 # Motivation
 
-The Olympic Games are widely regarded as a symbol of international unity and athletic excellence. However, behind the spectacle of competition lies a recurring question: do wealthier nations inherently perform better than others? This project, titled **“The Economics of Olympic Success: How GDP and Population Shape Medal Performance,”** investigates whether economic strength and population size are associated with Olympic success. Understanding these relationships may reveal how resources, infrastructure, and population affect medal outcomes.
+The Olympic Games are widely regarded as a symbol of international unity and athletic excellence. However, behind the spectacle of competition lies a recurring question: do wealthier nations inherently perform better than others? This project investigates whether economic strength and population size are associated with Olympic success.
 
-By analyzing data from the last few decades of Olympic history, the study will investigate whether a country’s economic indicators—particularly its Gross Domestic Product (GDP), GDP per capita, and population size—correlate with the number of medals it wins. The project’s primary goal is to identify measurable patterns that explain how economic prosperity influences athletic success and to highlight nations that outperform or underperform relative to their economic standing.
+Using data from recent decades of Olympic history, the study examines whether a country’s economic indicators—particularly Gross Domestic Product (GDP), GDP per capita, and population size—are correlated with its Olympic performance. The primary goal is to identify measurable patterns that explain how economic prosperity and demographic scale influence athletic success, and to highlight countries that outperform or underperform relative to their economic standing.
 
 # Data to Use
 
@@ -32,7 +32,7 @@ These indicators represent the economic size and development level of countries 
 3. Merging Olympic data with World Bank economic indicators
 4. Exploratory data analysis and visualization
 5. Statistical analysis (correlations and hypothesis testing)
-6. Machine learning models in the final stage
+6. Application of machine learning models (PCA, K-Means clustering, and Random Forest regression) to evaluate predictive relationships
 
 
 
