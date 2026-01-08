@@ -19,6 +19,12 @@ The second dataset comes from the World Bank Open Data platform (https://data.wo
 
 These indicators represent the economic size and development level of countries and are used to examine their relationship with Olympic performance.
 
+**Note:** Due to GitHub file size limitations, the full Olympic dataset
+(`athlete_events.csv`) is not included in this repository.
+It can be downloaded directly from Kaggle using the link below:
+
+https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
+
 # Research Questions
 
 * Is there a relationship between GDP and total Olympic medals?
