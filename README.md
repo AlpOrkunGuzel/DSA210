@@ -29,7 +29,7 @@ https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-a
 
 * Is there a relationship between GDP and total Olympic medals?
 * Do more populous countries win more medals on average?
-* Is GDP per capita associated with higher medal efficiency?
+* Is GDP per capita associated with higher medal efficiency? (Medal efficiency is measured as medals won per million people (Medals_per_Million_People).)
 
 # Methadology / Analysis Plan
 
