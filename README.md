@@ -35,12 +35,15 @@ https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-a
 
 # Methadology / Analysis Plan
 
-1. Data cleaning and preprocessing
-2. Aggregating Olympic data to the country–year level
-3. Merging Olympic data with World Bank economic indicators
-4. Exploratory data analysis and visualization
-5. Statistical analysis (correlations and hypothesis testing)
-6. Application of machine learning models (PCA, K-Means clustering, and Random Forest regression) to evaluate predictive relationships
+The analysis includes:
+- Data cleaning and preprocessing
+- Aggregating total medal counts per country and year
+- Merging Olympic performance data with World Bank economic indicators
+- Feature engineering (e.g., medals per million population)
+- Exploratory Data Analysis (EDA)
+- Hypothesis testing using Pearson correlation and two-sample t-tests
+- Regression modeling using OLS to evaluate predictive power
+- Machine learning methods (PCA, K-Means clustering, and Random Forest regression)
 
 
 
